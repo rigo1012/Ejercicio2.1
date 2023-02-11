@@ -1,0 +1,12 @@
+@startuml
+class Operaciones{
+double suma
+double resta
+double multiplicacion
+double modulo
+double cociente
+double num1
+double num2
+}
+
+@enduml
